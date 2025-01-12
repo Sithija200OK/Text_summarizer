@@ -1,0 +1,3 @@
+install transformers
+install torch
+install gradio
